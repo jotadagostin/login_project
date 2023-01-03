@@ -33,7 +33,7 @@ violet #5f2c82
     left: 50%;
     transform: translate(-50%, -50%);
     overflow: hidden;
-    width: 250px;
+    width: 280px;
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.397);
@@ -54,4 +54,14 @@ violet #5f2c82
     display: block;
     padding: 10px;
 
+ }
+
+ div#form > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+
+ }
+
+ div#form > p {
+    font-size: 0.8em;
  }
