@@ -70,7 +70,7 @@ violet #5f2c82
     background-color: rgb(199, 152, 152);
     display: block;
     width: 100%;
-    height: 40px;
+    height: 44px;
     border-radius: 5px;
     margin: 5px 0px;
  }
@@ -112,8 +112,18 @@ violet #5f2c82
  }
 
  .material-symbols-outlined {
+    width: 40px;
     margin-left: 4px;
-    padding-top: 1px;    
+    padding-top: 5px;    
+    font-size: 4em;
+    color: white;
+}
+
+div.camp > input {
+  background-color: rgb(217, 231, 238);
+  width: 210px;
+  height: 30px;
+  border-radius: 5px;
 }
 
 label {

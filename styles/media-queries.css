@@ -33,6 +33,15 @@ Big Screens: more than 1200px
         float: right;
         width: 70%;
     }
+
+    div.camp > input {
+        background-color: rgb(217, 231, 238);
+        width: 414px;
+        height: 32px;
+        border-radius: 5px;
+    }
+
+    
     
 }
 
@@ -66,4 +75,11 @@ Big Screens: more than 1200px
     div#form > p {
         font-size: 1.2em;
      }
+
+     div.camp > input {
+        background-color: rgb(217, 231, 238);
+        width: 414px;
+        height: 32px;
+        border-radius: 5px;
+    }
 }
