@@ -130,3 +130,8 @@ label {
     color: black;
     font-weight: 450;
 }
+
+p {
+    padding: 4px 0;
+    text-align: center;
+}
